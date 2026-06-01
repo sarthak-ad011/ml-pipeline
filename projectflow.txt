@@ -27,11 +27,13 @@ Expermients with DVC:
 
 
 
+>>>>>> logging is class and logger os an object in it ,contsins handler(console handler , file handler,rotating file handler, 
+time based rotating file handler) and formatter(sets the format of the log),they are needed to be defined
+    >>debug,info,warning,error,critical (logging levels in increasing order of severity)
+    >>if we chosse warning then console or file willonly show level above it and below it will be ignored,hence error will 
+    give error and critical
 
-
-
-
-
+>>>>>> yaml 
 
 -------------------------------------------------------------------------------
 

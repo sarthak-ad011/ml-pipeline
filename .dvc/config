@@ -1,0 +1,4 @@
+[core]
+    remote = vanya
+['remote "vanya"']
+    url = s3://dvc-s3-pipeline-011
